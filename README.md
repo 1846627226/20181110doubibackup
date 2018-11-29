@@ -1,4 +1,4 @@
-# 2018年11月10日备份的逗比脚本（已修复源到本分支）
+# 2018年11月10日备份的逗比脚本（已修复下载地址）
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 [![GitHub stars](https://img.shields.io/github/stars/HugeName/20181110doubibackup.svg?style=popout&label=Stars)](https://github.com/HugeName/20181110doubibackup/stargazers)
@@ -505,4 +505,4 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/HugeName/201811
 ```
 
 ---
-Copyright (C) 2016-2018 Toyo <https://doub.io>
+
